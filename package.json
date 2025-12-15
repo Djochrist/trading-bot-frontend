@@ -1,6 +1,6 @@
 {
   "name": "rest-express",
-  "homepages" : "https://github.com/Djochrist/trading-bot-frontend.git",
+  "homepages": "https://github.com/Djochrist/trading-bot-frontend.git",
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
